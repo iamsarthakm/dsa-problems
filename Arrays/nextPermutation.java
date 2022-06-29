@@ -12,6 +12,8 @@
  *      1. swap the smaller element(ind-1) to the next closest element in the right(ind+1,end), 
  *          condition the element should be greater than ind-1 and smaller than prev(ind) 
  *      2. reverse the array from ind to end
+ * 
+ * #Tough #revision
 */
 
 class Solution {

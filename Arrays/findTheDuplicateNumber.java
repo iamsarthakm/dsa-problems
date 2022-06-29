@@ -7,7 +7,10 @@
  Approach. Range of elements are within index 
 
  we can take element and mark arr[element] -ve. SO if there is a negative element the index value is going to be negative. 
-*/
+
+ #revision
+
+ */
 
 class Solution {
     public int findDuplicate(int[] nums) {
