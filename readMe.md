@@ -1,4 +1,4 @@
-TIPS and TRICKS
+### TIPS and TRICKS
 
 Based on inputs
 
@@ -6,6 +6,6 @@ Based on inputs
 2. if sorted input binary search
 
 
-//TODO again->
+### TODO again->
 
 merge sort , count inversions
